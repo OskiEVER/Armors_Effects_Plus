@@ -1,20 +1,57 @@
-# PL:
-Ten mod dodaje efekty to różnych rodzajów zbroi:
-1. Skórzana - usuwa truciznę z gracza
-2. Złota - zwiększa fall damage, ale pigliny cię nie atakują, nawet jak je uderzysz
-3. Kolczugowa - zadaje obrażenia mobom, które cię dotykają w wielkości 1 serce na sekundę
-4. Miededziana - wyłącza całkowicie obrażenia od piorunów, oraz kiedy uderzysz moba istnieje 5% szans, że uderzy w niego piorun, oraz 1% szans, że uderzy ich aż trzy
-5. Żelazna - dodaje ci 50% obrażeń, ale lekko spowalnia
-6. Diamentowa - zwiększa twoją szybkość o 50%, oraz wykrywa najbliższe rudy w promieniu 3 kratek
-7. Netherytowa - wyłącza obrażenia od ognia i lawy, oraz wyłącza odrzut
-By efekty działały, musisz mieć **CAŁĄ ZBROJĘ JEDNEGO TYPU NA SOBIE**. Efekty znikają od razu po zdjęciu zbroi.
-# EN:
-This mod adds effects to different types of armor:
-1. Leather - removes poison from the player
-2. Gold - increases fall damage, but piglins do not attack you, even if you hit them
-3. Chainmail - deals damage to mobs that touch you at a rate of 1 heart per second
-4. Copper - completely disables lightning damage, and when you hit a mob, there is a 5% chance that it will be struck by lightning, and a 1% chance that three of them will be struck
-5. Iron - adds 50% damage, but slows you down slightly
-6. Diamond - increases your speed by 50% and detects the nearest ores within a 3-meter radius
-7. Netherite - disables fire and lava damage, and disables recoil
-For the effects to work, you must be wearing **ALL ARMOR OF ONE TYPE**. The effects disappear immediately after removing the armor.
+# Armors Effects Plus
+
+Gives every vanilla armor set its own **unique set bonus**. Wear a full set and get a special power, with strengths and drawbacks that make each one worth choosing. No commands, no setup.
+
+---
+
+## ⚠️ How set bonuses work
+
+To get an effect, you must wear a **FULL SET OF ONE ARMOR TYPE**. The effect disappears the moment you take any piece off.
+
+---
+
+## Armor effects
+
+### 🟤 Leather
+- **Cleansing:** removes poison from you.
+
+### 🟡 Golden
+- **Piglin's friend:** Piglins never attack you, even if you hit them first.
+- **Brute Slayer:** Piglin Brutes within **5 blocks** die automatically.
+- **Drawback:** you take **increased fall damage**.
+
+### ⛓️ Chainmail
+- **Spiked touch:** mobs that touch you take **1 heart of damage per second**.
+
+### 🟠 Copper
+- **Lightning-proof:** you take **no damage from lightning**.
+- **Storm striker:** when you hit a mob, there is a **5% chance** that lightning strikes it, and a **1% chance** that **three bolts** strike it at once.
+
+### ⚪ Iron
+- **Heavy hitter:** you deal **50% more damage**.
+- **Drawback:** you are **slightly slower**.
+
+### 💎 Diamond
+- **Swift:** your speed is increased by **50%**.
+- **Ore sense:** detects the nearest ores within **3 blocks**.
+
+### 🟣 Netherite
+- **Fireproof:** you take **no damage from fire or lava**.
+- **Unshakable:** you take **no knockback**.
+
+---
+
+## Quick overview
+
+| Armor | Main effect | Drawback |
+|---|---|---|
+| Leather | Removes poison | None |
+| Golden | Piglins are peaceful, Brutes nearby die | More fall damage |
+| Chainmail | Damages mobs touching you | None |
+| Copper | Lightning immunity, lightning on hit | None |
+| Iron | +50% damage | Slightly slower |
+| Diamond | +50% speed, ore detection (3 blocks) | None |
+| Netherite | Fire, lava and knockback immunity | None |
+## License
+
+Please add your license here.
