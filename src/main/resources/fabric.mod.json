@@ -1,0 +1,24 @@
+{
+  "schemaVersion": 1,
+  "id": "aromors",
+  "version": "${version}",
+  "name": "Aromors+",
+  "description": "Dodaje unikalne efekty dla każdego zestawu zbroi w Minecrafcie!",
+  "authors": [
+    "OskiEVER"
+  ],
+  "contact": {
+    "sources": "https://github.com/OskiEVER/Armors-"
+  },
+  "license": "MIT",
+  "icon": "icon.png",
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "com.armors_plus.Aromors"
+    ]
+  },
+  "mixins": [
+    "aromors.mixins.json"
+  ]
+}
